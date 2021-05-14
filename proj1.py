@@ -13,6 +13,8 @@ def devide(a, b):
     print("devide -->", a/b)
 
 
+def power(a, b):
+    print(a**b)
 
 # function call
 no1 = 10
@@ -25,3 +27,4 @@ devide(no1, no2)
 
 
 print("Advance Calculator")
+power("power -->", no1, no2)
